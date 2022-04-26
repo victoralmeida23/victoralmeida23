@@ -5,6 +5,7 @@
 - 🌱 Estou estudando JAVASCRIPT, HTML e CSS
 - 📫 Contate-me no email: victoralmeidaro@gmail.com
 - 😄 Pronouns: ele/dele
+- 💼 Busco uma oportunidade de trabalho na área de desenvolvimento
 
 <div>
   <a href="https://github.com/victoralmeida23">
