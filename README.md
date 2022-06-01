@@ -1,8 +1,9 @@
 ### Olá eu sou Victor Almeida
 
 
-- 🔭 Hoje Trabalho com Infraestrutura de TI
+- 🔭 Atualmente Trabalho com Infraestrutura de TI
 - 🌱 Estou estudando JAVASCRIPT, HTML e CSS
+- 📚 Cursando Analise e Desenvolvimento de Sistemas - IFC
 - 📫 Contate-me no email: victoralmeidaro@gmail.com
 - 😄 Pronouns: ele/dele
 - 💼 Busco uma oportunidade de trabalho na área de desenvolvimento
