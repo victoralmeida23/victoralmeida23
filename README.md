@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente Trabalho com Infraestrutura de TI
-- 🌱 Estou estudando JAVASCRIPT, HTML e CSS
+- 🌱 Estou estudando Segurança da informação
 - 📚 Formado em Analise e Desenvolvimento de Sistemas - IFC
 - 📫 Contate-me no email: victoralmeidaro@gmail.com
 - 😄 Pronouns: ele/dele
