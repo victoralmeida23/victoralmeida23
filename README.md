@@ -6,7 +6,6 @@
 - 📚 Cursando Analise e Desenvolvimento de Sistemas - IFC
 - 📫 Contate-me no email: victoralmeidaro@gmail.com
 - 😄 Pronouns: ele/dele
-- 💼 Busco uma oportunidade de trabalho na área de Segurança da Informação
 
 <div>
   <a href="https://github.com/victoralmeida23">
